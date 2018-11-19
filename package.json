@@ -1,0 +1,17 @@
+{
+  "name": "firstserver",
+  "version": "1.0.0",
+  "description": "first server firstserver node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "first",
+    "server",
+    "firstserver",
+    "node"
+  ],
+  "author": "sabasmendivil",
+  "license": "ISC"
+}
